@@ -1,2 +1,3 @@
 three
-making some changes here at three.txt in remote phase to pull or fetch to the local repository.
+making some changes here at three.txt in remote phase  fetch & merge to the local repository.
+then try again with pull
